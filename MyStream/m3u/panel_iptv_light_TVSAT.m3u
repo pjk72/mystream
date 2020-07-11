@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1,group-title="TVSAT",Rai 1
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/325.ts
+#EXTINF:-1,Rai 2
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/324.ts
+#EXTINF:-1,Rai 3 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/323.ts
+#EXTINF:-1,Rete 4
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1314.ts
+#EXTINF:-1,Canale 5
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/7685.ts
+#EXTINF:-1,Canale 5 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/7686.ts
+#EXTINF:-1,Canale 5 FHD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/330.ts
+#EXTINF:-1,Italia 1 
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/327.ts
+#EXTINF:-1,La 7D FHD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/6539.ts
+#EXTINF:-1,Rai 4 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5240.ts
+#EXTINF:-1,Iris
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5233.ts
+#EXTINF:-1,Rai 5
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5239.ts
+#EXTINF:-1,Rai Movie
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5237.ts
+#EXTINF:-1,Rai Premium
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5236.ts
+#EXTINF:-1,Cielo HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5217.ts
+#EXTINF:-1,La 5
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5232.ts
+#EXTINF:-1,Real Time FHD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1283.ts
+#EXTINF:-1,Mediaset Extra
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5238.ts
+#EXTINF:-1,Top Crime
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1269.ts
+#EXTINF:-1,Boing
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1282.ts
+#EXTINF:-1,Rai Gulp
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5191.ts
+#EXTINF:-1,Rai YoYo HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5190.ts
+#EXTINF:-1,Frisbee
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5180.ts
+#EXTINF:-1,Cartoonito
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5188.ts
+#EXTINF:-1,Super!
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5189.ts
+#EXTINF:-1,Rai News 24
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5195.ts
+#EXTINF:-1,Dmax
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1274.ts
+#EXTINF:-1,Rai Storia
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5235.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1264.ts
+#EXTINF:-1,Rai Sport 2
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1263.ts
+#EXTINF:-1,DeeJay TV
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5223.ts
+#EXTINF:-1,Rai Scuola
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5234.ts
+#EXTINF:-1,group-title="SKY",Sky 3D
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1307.ts
+#EXTINF:-1,Sky Arte HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5198.ts
+#EXTINF:-1,Sky Atlantic HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1291.ts
+#EXTINF:-1,Sky Cinema 1  HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/322.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1311.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1310.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1309.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/321.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/320.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/319.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1308.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/318.ts
+#EXTINF:-1,Sky Virgin Music TV
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5172.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/317.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5211.ts
+#EXTINF:-1,Sky TG 24 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5197.ts
+#EXTINF:-1,Sky 1 
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/314.ts
+#EXTINF:-1,Sky 1  +1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1292.ts
+#EXTINF:-1,Sky Calcio 1
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/307.ts
+#EXTINF:-1,Sky Calcio 2
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/306.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5210.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5209.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5208.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5207.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/316.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/315.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1266.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/309.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/308.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1265.ts
+#EXTINF:-1,Sky MotoGP HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/310.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/316.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/315.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1266.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/309.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/308.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1265.ts
+#EXTINF:-1,Sky TG 24 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5197.ts
+#EXTINF:-1,Sky Atlantic HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1291.ts
+#EXTINF:-1,group-title="PREMIUM",Premium Action HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1299.ts
+#EXTINF:-1,Premium Action +24
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1298.ts
+#EXTINF:-1,Premium Crime HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1294.ts
+#EXTINF:-1,Premium Crime +24
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1293.ts
+#EXTINF:-1,Premium Joi
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1300.ts
+#EXTINF:-1,Premium Stories
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1295.ts
+#EXTINF:-1,Premium Cinema +24
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1305.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1303.ts
+#EXTINF:-1,Premium Cinema HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1306.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1304.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1302.ts
+#EXTINF:-1,Premium Cinema Energy
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1301.ts
+#EXTINF:-1,Premium Emotion
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1297.ts
+#EXTINF:-1,EuroSport 1 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1260.ts
+#EXTINF:-1,EuroSport 2 HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1259.ts
+#EXTINF:-1,Premium Sport HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/312.ts
+#EXTINF:-1,Premium Sport 2
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/311.ts
+#EXTINF:-1,group-title="PREMIUM CALCIO",Premium Calcio 1
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5206.ts
+#EXTINF:-1,Premium Calcio 2
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5205.ts
+#EXTINF:-1,Premium Calcio 3
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5204.ts
+#EXTINF:-1,Premium Calcio 4
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5203.ts
+#EXTINF:-1,Premium Calcio 5
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5202.ts
+#EXTINF:-1,Premium Calcio 6
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/5201.ts
+#EXTINF:-1,group-title="FOX",Fox Animation HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1287.ts
+#EXTINF:-1,Fox HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1290.ts
+#EXTINF:-1,Fox Comedy HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1288.ts
+#EXTINF:-1,Fox Crime HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1289.ts
+#EXTINF:-1,Fox Life +1
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1285.ts
+#EXTINF:-1,Fox Life HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/1286.ts
+#EXTINF:-1,Fox Sport HD
+http://magiptv.zapto.org:8080/live/imad.hass/JoR21pDztR/313.ts

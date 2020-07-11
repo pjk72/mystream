@@ -1,0 +1,6 @@
+{
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true,
+  "git.ignoreLimitWarning": true,
+  "phpcs.trace.server": "messages"
+}
